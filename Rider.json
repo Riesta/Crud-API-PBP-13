@@ -1,94 +1,84 @@
 {
   "result": [
     {
-      "no": "1",
-      "name": "Kamen Rider Kuuga",
-      "birth_date": "2000-01-30",
-      "Position": "Multi Form Fighter",
-      "International": "Japan",
-      "Team": "Gouram",
-      "Poster": "https://i.imgur.com/hX2GwYo.jpg"
+      "title": "Kamen Rider Kuuga",
+      "release_year": "2000",
+      "main_character": "Yusuke Godai",
+      "series": "Kamen Rider Kuuga",
+      "henshin_device": "Arcle",
+      "Poster": "https://example.com/kuuga.jpg"
     },
     {
-      "no": "2",
-      "name": "Kamen Rider Agito",
-      "birth_date": "2001-01-28",
-      "Position": "Evolutive Power",
-      "International": "Japan",
-      "Team": "Machine Tornador",
-      "Poster": "https://i.imgur.com/8w4l1Eh.jpg"
+      "title": "Kamen Rider Agito",
+      "release_year": "2001",
+      "main_character": "Shouichi Tsugami",
+      "series": "Kamen Rider Agito",
+      "henshin_device": "Alter Ring",
+      "Poster": "https://example.com/agito.jpg"
     },
     {
-      "no": "3",
-      "name": "Kamen Rider Ryuki",
-      "birth_date": "2002-02-03",
-      "Position": "Contract Beast Fighter",
-      "International": "Japan",
-      "Team": "Dragreder",
-      "Poster": "https://i.imgur.com/0drtAX5.jpg"
+      "title": "Kamen Rider Ryuki",
+      "release_year": "2002",
+      "main_character": "Shinji Kido",
+      "series": "Kamen Rider Ryuki",
+      "henshin_device": "V-Buckle",
+      "Poster": "https://example.com/ryuki.jpg"
     },
     {
-      "no": "4",
-      "name": "Kamen Rider Faiz",
-      "birth_date": "2003-01-26",
-      "Position": "Photon Streamer",
-      "International": "Japan",
-      "Team": "Auto Vajin",
-      "Poster": "https://i.imgur.com/sY7hHBl.jpg"
+      "title": "Kamen Rider Faiz",
+      "release_year": "2003",
+      "main_character": "Takumi Inui",
+      "series": "Kamen Rider 555",
+      "henshin_device": "Faiz Gear",
+      "Poster": "https://example.com/faiz.jpg"
     },
     {
-      "no": "5",
-      "name": "Kamen Rider Blade",
-      "birth_date": "2004-01-25",
-      "Position": "Undead Sealer",
-      "International": "Japan",
-      "Team": "Blue Spader",
-      "Poster": "https://i.imgur.com/XYlzAoq.jpg"
+      "title": "Kamen Rider Blade",
+      "release_year": "2004",
+      "main_character": "Kazuma Kenzaki",
+      "series": "Kamen Rider Blade",
+      "henshin_device": "Blay Buckle",
+      "Poster": "https://example.com/blade.jpg"
     },
     {
-      "no": "6",
-      "name": "Kamen Rider Hibiki",
-      "birth_date": "2005-01-30",
-      "Position": "Oni Sound Warrior",
-      "International": "Japan",
-      "Team": "Ongekidō",
-      "Poster": "https://i.imgur.com/YXFtCXP.jpg"
+      "title": "Kamen Rider Hibiki",
+      "release_year": "2005",
+      "main_character": "Hibiki",
+      "series": "Kamen Rider Hibiki",
+      "henshin_device": "Ongekibou",
+      "Poster": "https://example.com/hibiki.jpg"
     },
     {
-      "no": "7",
-      "name": "Kamen Rider Kabuto",
-      "birth_date": "2006-01-29",
-      "Position": "Clock Up Speed",
-      "International": "Japan",
-      "Team": "ZECT",
-      "Poster": "https://i.imgur.com/qjCI7js.jpg"
+      "title": "Kamen Rider Kabuto",
+      "release_year": "2006",
+      "main_character": "Souji Tendou",
+      "series": "Kamen Rider Kabuto",
+      "henshin_device": "Kabuto Zecter",
+      "Poster": "https://example.com/kabuto.jpg"
     },
     {
-      "no": "8",
-      "name": "Kamen Rider Den-O",
-      "birth_date": "2007-01-28",
-      "Position": "Time Traveler",
-      "International": "Japan",
-      "Team": "DenLiner",
-      "Poster": "https://i.imgur.com/m2kXDME.jpg"
+      "title": "Kamen Rider Den-O",
+      "release_year": "2007",
+      "main_character": "Ryotaro Nogami",
+      "series": "Kamen Rider Den-O",
+      "henshin_device": "Den-O Belt",
+      "Poster": "https://example.com/deno.jpg"
     },
     {
-      "no": "9",
-      "name": "Kamen Rider W",
-      "birth_date": "2009-09-06",
-      "Position": "Two-in-One Detective",
-      "International": "Japan",
-      "Team": "Double Driver",
-      "Poster": "https://i.imgur.com/HZSnHk3.jpg"
+      "title": "Kamen Rider Kiva",
+      "release_year": "2008",
+      "main_character": "Wataru Kurenai",
+      "series": "Kamen Rider Kiva",
+      "henshin_device": "Kivat Belt",
+      "Poster": "https://example.com/kiva.jpg"
     },
     {
-      "no": "10",
-      "name": "Kamen Rider OOO",
-      "birth_date": "2010-09-05",
-      "Position": "Core Medals User",
-      "International": "Japan",
-      "Team": "Birth System",
-      "Poster": "https://i.imgur.com/oECyGAY.jpg"
+      "title": "Kamen Rider Decade",
+      "release_year": "2009",
+      "main_character": "Tsukasa Kadoya",
+      "series": "Kamen Rider Decade",
+      "henshin_device": "Decadriver",
+      "Poster": "https://example.com/decade.jpg"
     }
   ]
 }
