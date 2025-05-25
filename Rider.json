@@ -1,76 +1,28 @@
 {
   "result": [
     {
-      "title": "Kamen Rider Kuuga",
-      "release_year": "2000",
-      "main_character": "Yusuke Godai",
-      "series": "Kamen Rider Kuuga",
-      "henshin_device": "Arcle",
-      "Poster": "https://example.com/kuuga.jpg"
-    },
-    {
-      "title": "Kamen Rider Agito",
-      "release_year": "2001",
-      "main_character": "Shouichi Tsugami",
-      "series": "Kamen Rider Agito",
-      "henshin_device": "Alter Ring",
-      "Poster": "https://example.com/agito.jpg"
-    },
-    {
       "title": "Kamen Rider Ryuki",
       "release_year": "2002",
       "main_character": "Shinji Kido",
       "series": "Kamen Rider Ryuki",
       "henshin_device": "V-Buckle",
-      "Poster": "https://example.com/ryuki.jpg"
+      "Poster": "https://postimg.cc/m146Qzm1"
     },
     {
-      "title": "Kamen Rider Faiz",
-      "release_year": "2003",
-      "main_character": "Takumi Inui",
-      "series": "Kamen Rider 555",
-      "henshin_device": "Faiz Gear",
-      "Poster": "https://example.com/faiz.jpg"
+      "title": "Kamen Rider Build",
+      "release_year": "2017",
+      "main_character": "Sento Kiryu",
+      "series": "Kamen Rider Build",
+      "henshin_device": "Build Driver",
+      "Poster": "https://postimg.cc/QFYPRMdv"
     },
     {
-      "title": "Kamen Rider Blade",
-      "release_year": "2004",
-      "main_character": "Kazuma Kenzaki",
-      "series": "Kamen Rider Blade",
-      "henshin_device": "Blay Buckle",
-      "Poster": "https://example.com/blade.jpg"
-    },
-    {
-      "title": "Kamen Rider Hibiki",
-      "release_year": "2005",
-      "main_character": "Hibiki",
-      "series": "Kamen Rider Hibiki",
-      "henshin_device": "Ongekibou",
-      "Poster": "https://example.com/hibiki.jpg"
-    },
-    {
-      "title": "Kamen Rider Kabuto",
-      "release_year": "2006",
-      "main_character": "Souji Tendou",
-      "series": "Kamen Rider Kabuto",
-      "henshin_device": "Kabuto Zecter",
-      "Poster": "https://example.com/kabuto.jpg"
-    },
-    {
-      "title": "Kamen Rider Den-O",
-      "release_year": "2007",
-      "main_character": "Ryotaro Nogami",
-      "series": "Kamen Rider Den-O",
-      "henshin_device": "Den-O Belt",
-      "Poster": "https://example.com/deno.jpg"
-    },
-    {
-      "title": "Kamen Rider Kiva",
-      "release_year": "2008",
-      "main_character": "Wataru Kurenai",
-      "series": "Kamen Rider Kiva",
-      "henshin_device": "Kivat Belt",
-      "Poster": "https://example.com/kiva.jpg"
+      "title": "Kamen Rider Zi-O",
+      "release_year": "2018",
+      "main_character": "Sougo Tokiwa",
+      "series": "Kamen Rider Zi-O",
+      "henshin_device": "Ziku-Driver",
+      "Poster": "https://postimg.cc/mPTBbhRD"
     },
     {
       "title": "Kamen Rider Decade",
@@ -78,7 +30,55 @@
       "main_character": "Tsukasa Kadoya",
       "series": "Kamen Rider Decade",
       "henshin_device": "Decadriver",
-      "Poster": "https://example.com/decade.jpg"
+      "Poster": "https://postimg.cc/ykP2yj41"
+    },
+    {
+      "title": "Kamen Rider Ex-Aid",
+      "release_year": "2016",
+      "main_character": "Emu Hojo",
+      "series": "Kamen Rider Ex-Aid",
+      "henshin_device": "Gamer Driver",
+      "Poster": "https://postimg.cc/yJJ5BzJx"
+    },
+    {
+      "title": "Kamen Rider Kabuto",
+      "release_year": "2006",
+      "main_character": "Souji Tendou",
+      "series": "Kamen Rider Kabuto",
+      "henshin_device": "Kabuto Zecter",
+      "Poster": "https://postimg.cc/68HJt0Yj"
+    },
+    {
+      "title": "Kamen Rider Faiz",
+      "release_year": "2003",
+      "main_character": "Takumi Inui",
+      "series": "Kamen Rider 555",
+      "henshin_device": "Faiz Gear",
+      "Poster": "https://postimg.cc/gxcFC5qL"
+    },
+    {
+      "title": "Kamen Rider Den-O",
+      "release_year": "2007",
+      "main_character": "Ryotaro Nogami",
+      "series": "Kamen Rider Den-O",
+      "henshin_device": "Den-O Belt",
+      "Poster": "https://postimg.cc/VSdy6ChY"
+    },
+    {
+      "title": "Kamen Rider W",
+      "release_year": "2009",
+      "main_character": "Shotaro Hidari & Philip",
+      "series": "Kamen Rider W",
+      "henshin_device": "Double Driver",
+      "Poster": "https://postimg.cc/ft967hZp"
+    },
+    {
+      "title": "Kamen Rider OOO",
+      "release_year": "2010",
+      "main_character": "Eiji Hino",
+      "series": "Kamen Rider OOO",
+      "henshin_device": "OOO Driver",
+      "Poster": "https://postimg.cc/1nwjncrZ"
     }
   ]
 }
