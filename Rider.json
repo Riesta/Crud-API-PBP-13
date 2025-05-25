@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "no": "1",
+      "name": "Kamen Rider Kuuga",
+      "birth_date": "2000-01-30",
+      "Position": "Multi Form Fighter",
+      "International": "Japan",
+      "Team": "Gouram",
+      "Poster": "https://i.imgur.com/hX2GwYo.jpg"
+    },
+    {
+      "no": "2",
+      "name": "Kamen Rider Agito",
+      "birth_date": "2001-01-28",
+      "Position": "Evolutive Power",
+      "International": "Japan",
+      "Team": "Machine Tornador",
+      "Poster": "https://i.imgur.com/8w4l1Eh.jpg"
+    },
+    {
+      "no": "3",
+      "name": "Kamen Rider Ryuki",
+      "birth_date": "2002-02-03",
+      "Position": "Contract Beast Fighter",
+      "International": "Japan",
+      "Team": "Dragreder",
+      "Poster": "https://i.imgur.com/0drtAX5.jpg"
+    },
+    {
+      "no": "4",
+      "name": "Kamen Rider Faiz",
+      "birth_date": "2003-01-26",
+      "Position": "Photon Streamer",
+      "International": "Japan",
+      "Team": "Auto Vajin",
+      "Poster": "https://i.imgur.com/sY7hHBl.jpg"
+    },
+    {
+      "no": "5",
+      "name": "Kamen Rider Blade",
+      "birth_date": "2004-01-25",
+      "Position": "Undead Sealer",
+      "International": "Japan",
+      "Team": "Blue Spader",
+      "Poster": "https://i.imgur.com/XYlzAoq.jpg"
+    },
+    {
+      "no": "6",
+      "name": "Kamen Rider Hibiki",
+      "birth_date": "2005-01-30",
+      "Position": "Oni Sound Warrior",
+      "International": "Japan",
+      "Team": "Ongekidō",
+      "Poster": "https://i.imgur.com/YXFtCXP.jpg"
+    },
+    {
+      "no": "7",
+      "name": "Kamen Rider Kabuto",
+      "birth_date": "2006-01-29",
+      "Position": "Clock Up Speed",
+      "International": "Japan",
+      "Team": "ZECT",
+      "Poster": "https://i.imgur.com/qjCI7js.jpg"
+    },
+    {
+      "no": "8",
+      "name": "Kamen Rider Den-O",
+      "birth_date": "2007-01-28",
+      "Position": "Time Traveler",
+      "International": "Japan",
+      "Team": "DenLiner",
+      "Poster": "https://i.imgur.com/m2kXDME.jpg"
+    },
+    {
+      "no": "9",
+      "name": "Kamen Rider W",
+      "birth_date": "2009-09-06",
+      "Position": "Two-in-One Detective",
+      "International": "Japan",
+      "Team": "Double Driver",
+      "Poster": "https://i.imgur.com/HZSnHk3.jpg"
+    },
+    {
+      "no": "10",
+      "name": "Kamen Rider OOO",
+      "birth_date": "2010-09-05",
+      "Position": "Core Medals User",
+      "International": "Japan",
+      "Team": "Birth System",
+      "Poster": "https://i.imgur.com/oECyGAY.jpg"
+    }
+  ]
+}
