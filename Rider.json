@@ -4,7 +4,7 @@
       "title": "Kamen Rider Ryuki",
       "release_year": "2002",
       "main_character": "Shinji Kido",
-      "series": "Kamen Rider Ryuki",
+      "era": "Heisei",
       "henshin_device": "V-Buckle",
       "Poster": "https://postimg.cc/m146Qzm1"
     },
@@ -12,7 +12,7 @@
       "title": "Kamen Rider Build",
       "release_year": "2017",
       "main_character": "Sento Kiryu",
-      "series": "Kamen Rider Build",
+      "era": "Neo Heisei",
       "henshin_device": "Build Driver",
       "Poster": "https://postimg.cc/QFYPRMdv"
     },
@@ -20,7 +20,7 @@
       "title": "Kamen Rider Zi-O",
       "release_year": "2018",
       "main_character": "Sougo Tokiwa",
-      "series": "Kamen Rider Zi-O",
+      "era": "Neo Heisei",
       "henshin_device": "Ziku-Driver",
       "Poster": "https://postimg.cc/mPTBbhRD"
     },
@@ -28,7 +28,7 @@
       "title": "Kamen Rider Decade",
       "release_year": "2009",
       "main_character": "Tsukasa Kadoya",
-      "series": "Kamen Rider Decade",
+      "era": "Heisei",
       "henshin_device": "Decadriver",
       "Poster": "https://postimg.cc/ykP2yj41"
     },
@@ -36,7 +36,7 @@
       "title": "Kamen Rider Ex-Aid",
       "release_year": "2016",
       "main_character": "Emu Hojo",
-      "series": "Kamen Rider Ex-Aid",
+      "era": "Neo Heisei",
       "henshin_device": "Gamer Driver",
       "Poster": "https://postimg.cc/yJJ5BzJx"
     },
@@ -44,7 +44,7 @@
       "title": "Kamen Rider Kabuto",
       "release_year": "2006",
       "main_character": "Souji Tendou",
-      "series": "Kamen Rider Kabuto",
+      "era": "Heisei",
       "henshin_device": "Kabuto Zecter",
       "Poster": "https://postimg.cc/68HJt0Yj"
     },
@@ -52,7 +52,7 @@
       "title": "Kamen Rider Faiz",
       "release_year": "2003",
       "main_character": "Takumi Inui",
-      "series": "Kamen Rider 555",
+      "era": "Heisei",
       "henshin_device": "Faiz Gear",
       "Poster": "https://postimg.cc/gxcFC5qL"
     },
@@ -68,7 +68,7 @@
       "title": "Kamen Rider W",
       "release_year": "2009",
       "main_character": "Shotaro Hidari & Philip",
-      "series": "Kamen Rider W",
+      "era": "Neo Heisei",
       "henshin_device": "Double Driver",
       "Poster": "https://postimg.cc/ft967hZp"
     },
@@ -76,7 +76,7 @@
       "title": "Kamen Rider OOO",
       "release_year": "2010",
       "main_character": "Eiji Hino",
-      "series": "Kamen Rider OOO",
+      "era": "Neo Heisei",
       "henshin_device": "OOO Driver",
       "Poster": "https://postimg.cc/1nwjncrZ"
     }
